@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Expert.WebAPI.uvod/obj/Debug/net7.0
+/Expert.WebAPI.uvod/obj
+/Expert.WebAPI.uvod/bin/Debug/net7.0
